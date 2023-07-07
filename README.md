@@ -5,7 +5,7 @@ This project contains code to analyze legislator votes and generate CSV reports.
 To run the code, follow these steps:
 
 1. Install Python 3+: If you don't have Python 3 or a later version installed on your system, you can download it from the official Python website: https://www.python.org/downloads/
-2. Download or clone this project repository to your local machine.
+2. Download or clone this project repository to your local machine. `git clone `
 3. Navigate to the project directory in your terminal or command prompt.
 4. Run the code: Execute the following command to run the main.py file:
 
